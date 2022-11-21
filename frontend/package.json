@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://django-reset-api.herokuapp.com",
+  "proxy": "https://isonetwork.herokuapp.com/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.6.0",
